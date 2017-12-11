@@ -32,7 +32,7 @@ namespace ExportExcelToLua
 
 
         private void button1_Click(object sender, EventArgs e)
-        {
+        { 
             var ofd = new OpenFileDialog();
             ofd.Title = "Select Excel file.";
             var dialogResult = ofd.ShowDialog();
