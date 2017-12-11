@@ -1,0 +1,12 @@
+C:\Users\under\Documents\Visual Studio 2017\Projects\ExportExcelToLua\ExportExcelToLua\bin\Debug\ExportExcelToLua.exe.config
+C:\Users\under\Documents\Visual Studio 2017\Projects\ExportExcelToLua\ExportExcelToLua\bin\Debug\ExportExcelToLua.exe
+C:\Users\under\Documents\Visual Studio 2017\Projects\ExportExcelToLua\ExportExcelToLua\bin\Debug\ExportExcelToLua.pdb
+C:\Users\under\Documents\Visual Studio 2017\Projects\ExportExcelToLua\ExportExcelToLua\bin\Debug\Excel.dll
+C:\Users\under\Documents\Visual Studio 2017\Projects\ExportExcelToLua\ExportExcelToLua\obj\Debug\ExportExcelToLua.csprojResolveAssemblyReference.cache
+C:\Users\under\Documents\Visual Studio 2017\Projects\ExportExcelToLua\ExportExcelToLua\obj\Debug\ExportExcelToLua.Form1.resources
+C:\Users\under\Documents\Visual Studio 2017\Projects\ExportExcelToLua\ExportExcelToLua\obj\Debug\ExportExcelToLua.Properties.Resources.resources
+C:\Users\under\Documents\Visual Studio 2017\Projects\ExportExcelToLua\ExportExcelToLua\obj\Debug\ExportExcelToLua.csproj.GenerateResource.Cache
+C:\Users\under\Documents\Visual Studio 2017\Projects\ExportExcelToLua\ExportExcelToLua\obj\Debug\ExportExcelToLua.csproj.CoreCompileInputs.cache
+C:\Users\under\Documents\Visual Studio 2017\Projects\ExportExcelToLua\ExportExcelToLua\obj\Debug\ExportExcelToLua.exe
+C:\Users\under\Documents\Visual Studio 2017\Projects\ExportExcelToLua\ExportExcelToLua\obj\Debug\ExportExcelToLua.pdb
+C:\Users\under\Documents\Visual Studio 2017\Projects\ExportExcelToLua\ExportExcelToLua\bin\Debug\ICSharpCode.SharpZipLib.dll
